@@ -29,5 +29,6 @@ The symbol **P(E<sub>1</sub>)** means *the probability of an event E<sub>1</sub>
 ```
 8. Possible Occurences: If there are m ways an event can occur out of a total of n ways, the probability is m/n.
 ```
-  You have a bag that contains 4 red balls and 1 black ball. The probability of pulling a black ball is 1/5 = 0.2 = 20%.
+  You have a bag that contains 4 red balls and 1 black ball. 
+  The probability of pulling a black ball is P(B) = 1/5 = 0.2 = 20%.
 ```
