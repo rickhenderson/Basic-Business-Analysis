@@ -34,3 +34,6 @@ A basic algorithm for **forecasting**, regardless of method:
 **Note:** Error is always calculated as `[Actual Data] - [Forecasted Data]`.
 
 Use **Mean Squared Error** (MSE) instead of error values, to measure the effectiveness of your forecast model. Your job is to **minimize** MSE.
+
+## Activities
+Good site to practice forecasting: https://www.gjopen.com/
