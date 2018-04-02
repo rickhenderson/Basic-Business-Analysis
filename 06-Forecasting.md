@@ -12,6 +12,8 @@ A basic algorithm for *forecasting*, regardless of method:
 7. Use your model to produce forecasts of future sales.
 ```
   * From Introduction to Business Analysis by Matthew Crabtree (University of Waterloo / Ed2Go) 
+  
+ A **forecast model** is a mathematical model of the values you want to try to determine (forecast).
 
 ## Types of Forecasting
 
@@ -29,4 +31,6 @@ A basic algorithm for *forecasting*, regardless of method:
   
 ### Quantitative Forecasts
 #### Moving Averages
-**Note:** Error is always calculated as [Actual Data] - [Forecasted Data].
+**Note:** Error is always calculated as \[Actual Data\] - \[Forecasted Data\].
+
+Use Mean Squared Error (MSE) instead of error values, to measure the effectiveness of your forecast model. Your job is to minimize MSE.
