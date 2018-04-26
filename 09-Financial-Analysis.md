@@ -11,6 +11,10 @@
 * Be aware of the potential faulty accounting perspective of actual cost.
 
 ## Chapter 3: Break-Even Analysis
+* Usually comparing an option which is cheaper in the near future but more expeince ve long term, or the other way around.
+* Example: small home on 15 year mortgage vs. renting luxury apartment
+  * Can determine the BE point using a chart or algebra and solving for M.
+* Example: Fixed and variable cost for producing plastic book holders, solving for N.
 
 ## Chapter 4: Benefit/Cost Analysis
 
