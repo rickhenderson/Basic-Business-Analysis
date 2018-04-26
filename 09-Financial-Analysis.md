@@ -16,6 +16,8 @@
   * Can determine the BE point using a chart or algebra and solving for M.
 * Example: Fixed and variable cost for producing plastic book holders, solving for N.
 
+<img src="break-even-analysis-chart.png">
+
 ## Chapter 4: Benefit/Cost Analysis
 
 ## Chapter 5: Summary
