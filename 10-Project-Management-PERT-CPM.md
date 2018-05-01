@@ -16,4 +16,5 @@ project: a collection of numerous jobs or tasks performed by an individual or de
 ## Chapter 5: Summary
 
 ## Resources
-Free Project Management course: http://www3.canisius.edu/~fishl/mba546pert.html
+* Free Project Management course: http://www3.canisius.edu/~fishl/mba546pert.html
+* IIL PM Blog: https://blog.iil.com/
