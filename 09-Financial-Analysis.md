@@ -21,8 +21,8 @@
 ## Chapter 4: Benefit/Cost Analysis
 * Also known as Cost Effective Analysis.
 * Frequently applied to government projects but can be applied to business venture.
-* Two approaches: express all benefits of the project in monetary terms and equate with gaines with the losses.
-  * quantify benefits of the project using an arbitrary but consistent scale bewtween two or more projects (Matt).
+* Two approaches: express all benefits of the project in monetary terms and equate with gains with the losses.
+  * quantify benefits of the project using an arbitrary but consistent scale between two or more projects (Crabtree).
 * Involves calculating the benefit/cost ratio. Sometimes the cheapest option isn't the best option.
 
 ## Chapter 5: Summary
