@@ -1,7 +1,7 @@
 # Financial Analysis
 
 ## Chapter 1: Introduction
-* Accounting Analysis deals with many types of costs. Financial Analysis deals with relative, future, and relevant costs. The two are separate and have different purposes.
+* **Accounting Analysis** deals with many types of costs. **Financial Analysis** deals with relative, future, and relevant costs. The two are separate and have different purposes.
 
 ## Chapter 2: Cost Concepts
 * An analyst often has to capture the cost of doing something: buying a product, hiring a person, etc. Something related to either a product, project, system, or operation.
