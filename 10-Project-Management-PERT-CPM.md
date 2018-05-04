@@ -1,7 +1,7 @@
 # Lesson 10: Project Management PERT/CPM
 
 ## Chapter 1: Introduction
-project: a collection of numerous jobs or tasks performed by an individual or department, or several, all with the same common objective.
+**project:** a collection of numerous jobs or tasks performed by an individual or department, or several, all with the same common objective.
 
 * PERT - Program Evaluation and Review Technique
 * CPM - Critical Path Method
